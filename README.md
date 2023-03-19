@@ -3,7 +3,7 @@ Intro to software engineering project
 
 This projects runs through the android studio windows application 
 
-
+The plugin runs with AGP 7.0.3
 
 
 Below is the emulated android device I used to run it through
